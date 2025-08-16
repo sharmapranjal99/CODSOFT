@@ -40,7 +40,7 @@ Run in an IDE
 2. Open the project in any Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans, or VS Code with Java extension).
 
 
-3. Locate the file containing the main method (e.g., atmInterface.java).
+3. Locate the file containing the main method (e.g., numberGame.java).
 
 
 4. Run the program from the IDE.
