@@ -32,6 +32,15 @@ The game allows a user to guess a randomly generated number within a specified r
 
 ## 5. How to Run
 
-1. Clone or download the repository:
-   ```bash
-  https://github.com/sharmapranjal99/CODSOFT/blob/main/numberGame.java
+Run in an IDE
+
+1. Download or clone the repository.
+
+
+2. Open the project in any Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans, or VS Code with Java extension).
+
+
+3. Locate the file containing the main method (e.g., atmInterface.java).
+
+
+4. Run the program from the IDE.
