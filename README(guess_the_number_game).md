@@ -34,5 +34,4 @@ The game allows a user to guess a randomly generated number within a specified r
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/number-guessing-game-java.git
-   cd number-guessing-game-java
+  https://github.com/sharmapranjal99/CODSOFT/blob/main/numberGame.java
